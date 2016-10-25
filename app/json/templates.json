@@ -1,0 +1,76 @@
+[
+	{
+		"id" : 1,
+		"name":"Template 1",
+		"description":"Awesome Theme",
+		"type": "html5",
+		"price": 999,
+		"images": [
+			{
+				"name": "1.jpg"
+			}
+		]
+	},
+	{	
+		"id" : 2,
+		"name":"Template 2",
+		"description":".",
+		"type": "html5",
+		"price": 999,
+		"images": [
+			{
+				"name": "2.jpg"
+			}
+		],
+		"soldOut":true
+	},
+	{
+		"id" : 3,
+		"name":"Template 3",
+        "description":"Awesome Theme.",		
+        "type": "Joomla",
+		"price": 1299,
+		"images": [
+			{
+				"name": "3.jpg"
+			}
+		]
+	},
+	{
+		"id" : 4,
+		"name":"Template 4",
+		"description":"Awesome Theme.",		
+		"type": "Joomla",
+		"price": 1299,
+		"images": [
+			{
+				"name": "4.jpg"
+			}
+		]
+	},
+	{
+		"id" : 5,
+		"name":"Template 5",
+		"description":"Awesome Theme.",	
+		"type": "html5",
+		"price": 999,
+		"images": [
+			{
+				"name": "5.jpg"
+			}
+		]
+	},
+	{
+		"id" : 6,
+		"name":"Template 6",
+		"description":"Awesome Theme.",		
+		"type": "wordpress",
+		"price": 1599,
+		"available": true,
+		"images": [
+			{
+				"name": "6.jpg"
+			}
+		]
+	}
+]
